@@ -49,7 +49,7 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
+👤 DEEPAK PRAJAPATI
 
 - Github: [@Deepak22002](https://github.com/Deepak22002)
 - T
